@@ -1,4 +1,44 @@
+# Work In Progress
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Justen Anderson's Portfolio
+A professional web developer's portfolio site with their projects, professional, and educational history.
+
+ - [Deployed app](https://menu-ify.vercel.app/) 
+ - [Front-end repo](https://github.com/justenanderson-commits/portfolio)
+
+### GIFs
+
+
+## Technologies
+- Next.js
+- React
+- Javascript
+- HTML 
+- CSS
+- Webpack module bundler
+- Git/GitHub
+- GitHub project board
+- Slack
+- Zoom
+
+
+## Installation instructions
+
+## Documentation
+### Figma Wireframe
+<img width="675" alt="Screenshot 2023-05-15 at 11 25 22 AM" src="https://github.com/justenanderson-commits/portfolio/assets/104015966/d527167b-f552-4a81-a08d-cd31e2c00ee3">
+<img width="675" alt="Screenshot 2023-05-15 at 11 25 12 AM" src="https://github.com/justenanderson-commits/portfolio/assets/104015966/1adcefa0-48f5-4a1e-88fb-16cd5457f5ee">
+<img width="675" alt="Screenshot 2023-05-15 at 11 25 01 AM" src="https://github.com/justenanderson-commits/portfolio/assets/104015966/460f4d7d-9fc9-446c-a5c4-a35a9f8d34ed">
+<img width="675" alt="Screenshot 2023-05-15 at 11 24 49 AM" src="https://github.com/justenanderson-commits/portfolio/assets/104015966/3f304c97-97a9-4224-b192-88fa829f1b88">
+
+### Miro Board
+
+
+### GitHub Project Board
+
+
 
 ## Getting Started
 
@@ -14,25 +54,5 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
